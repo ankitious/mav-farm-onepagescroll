@@ -1,6 +1,6 @@
 import React from 'react';
-import ScrollUp from "./ScrollUp";
-import ScrollTop from "./ScrollTop";
+import ScrollUp from "../scroll/ScrollUp";
+import ScrollTop from "../scroll/ScrollTop";
 
 export const Contact = () => (
     <div >

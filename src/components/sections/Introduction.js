@@ -1,6 +1,5 @@
 import React from 'react';
-import down from '../assets/images/down.png';
-import ScrollDown from "./ScrollDown";
+import ScrollDown from "../scroll/ScrollDown";
 
 const Introduction = () => (
   <div style={{width : '100%'}}>

@@ -1,5 +1,5 @@
 import React from 'react';
-import ScrollDown from "./ScrollDown";
+import ScrollDown from "../scroll/ScrollDown";
 
 const Projects = () => (
     <div >

@@ -1,8 +1,8 @@
 import React from 'react';
-import Introduction from "./Introduction";
-import About from "./About";
-import Projects from "./Projects";
-import {Contact} from "./Contact";
+import Introduction from "./sections/Introduction";
+import About from "./sections/About";
+import Projects from "./sections/Projects";
+import {Contact} from "./sections/Contact";
 
 const Section = () => (
   <div style={{    width: '70%'}}>
